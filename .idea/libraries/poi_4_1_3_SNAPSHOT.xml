@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="poi-4.1.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/dist/poi-4.1.3-SNAPSHOT/poi-4.1.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
